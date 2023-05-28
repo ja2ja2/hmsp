@@ -1,600 +1,603 @@
 #EXTM3U
-
 #EXTINF:-1,https://t.me/rushtv1
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/0C601D4B-A614-42D5-BECC-513158610F9C.jpeg" group-title="Live TV",SABC 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/57.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/A14CA6A5-17D4-4F30-ABAC-4A77440686C7.jpeg" group-title="Live TV",SABC 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/58.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/0DEBEED1-513A-466A-8F0C-B658A49DDC1E.png" group-title="Live TV",SABC 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/67.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/0C390D43-93F9-4D98-9EEB-5684B9C38FA1.png" group-title="Live TV",SABC NEWS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/77.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4EE74E08-1B90-41C9-90F7-DD7D720A6A56.jpeg" group-title="Live TV",E.TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/207.m3u8
-#EXTINF:-1 group-title="Live TV",M-Net CITY
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/71.m3u8
-#EXTINF:-1 group-title="Live TV",M-Net Movies 1 HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/73.m3u8
-#EXTINF:-1 tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="Live TV",M-Net Movies 2 FHD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/74.m3u8
-#EXTINF:-1 tvg-logo="http://myportal.live:8080/images/eca80f5bee63f5b6d5ce074206ab5559.png" group-title="Live TV",M-Net Movies 3 HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/75.m3u8
-#EXTINF:-1 group-title="Live TV",M-Net Movies 4 HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/76.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT PREMIER LEAGUE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/306.m3u8
-#EXTINF:-1 group-title="Live TV", SUPERSPORT PREMIER LEAGUE 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/556.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT ACTION
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/14.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT PSL HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/19.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SuperSport Football HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/15.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SuperSport LaLiga HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/17.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT RUGBY 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/93.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",ZA: SuperSport Grandstand HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/16.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT CRICKET 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/56.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SuperSport Variety 1 HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/20.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SuperSport Variety 2 HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/21.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SuperSport Variety 3 HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/22.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SuperSport Variety 4 HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/23.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT BLITZ 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/238.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT MAXIMO 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/304.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/971ADE1F-D569-4A29-BEA3-82726552AFE0.png" group-title="Live TV",SUPERSPORT MOTOR 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/18.m3u8
-#EXTINF:-1 group-title="Live TV",SUPERSPORT TENNIS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/206.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/8DE96784-D78A-41B2-BC85-78E5E901C04E.jpeg" group-title="Live TV",STAR LIFE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/60.m3u8
-#EXTINF:-1 group-title="Live TV", KYKNET NOU
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/308.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/5072A83C-C79A-486A-9BAD-0440BE7F4AAB.png" group-title="Live TV",KYKNET
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/234.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/152945A2-8325-4E1F-9868-7B38308F0BCC.png" group-title="Live TV",KYKNET & KIE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/280.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/50F53792-2834-4CF7-8513-CED9D4A57AE5.png" group-title="Live TV",MOJA LOVE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/55.m3u8
-#EXTINF:-1 group-title="Live TV",PINK FAMILY
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/307.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4D83FF7A-4507-45D0-A43B-D9690A733A0F.webp" group-title="Live TV",1MAGIC
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/235.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/CF5F099B-5742-41A7-A155-616F5DB49269.png" group-title="Live TV",TELEMUNDO 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/257.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/40B7A7F9-1615-4A22-A579-7F03A0DC898C.jpeg" group-title="Live TV",Africa Magic Family HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/25.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/40B7A7F9-1615-4A22-A579-7F03A0DC898C.jpeg" group-title="Live TV",Africa Magic Yoruba HD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/27.m3u8
-#EXTINF:-1 group-title="Live TV",NOLLYWOOD MOVIES  1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/374.m3u8
-#EXTINF:-1 group-title="Live TV",NIGBATI
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/345.m3u8
-#EXTINF:-1 group-title="Live TV",SLIVER BIRD NEWS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/335.m3u8
-#EXTINF:-1 group-title="Live TV",GALAXY TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/376.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/0DB10CFC-9270-4AA9-A28C-77BEF8DC59A1.png" group-title="Live TV",AIT LAGOS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/277.m3u8
-#EXTINF:-1 group-title="Live TV",WAPTV 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/377.m3u8
-#EXTINF:-1 group-title="Live TV",TVC NEWS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/375.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/203C18AE-2905-4C48-99F8-D9052CCAF0E9.jpeg" group-title="Live TV",BEN AFRICA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/184.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/B003D3CA-98A7-46CD-B392-E4C199D20197.png" group-title="Live TV",STAR MOVIES 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/302.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/5EEC9244-489D-4D64-878E-5E1B5A5D71C6.png" group-title="Live TV",MTV BASE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/311.m3u8
-#EXTINF:-1 group-title="Live TV",SOUND CITY
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/366.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/99BD7C87-8401-417C-B07A-600CCB252107.png" group-title="Live TV",ENCA NEWS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/301.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/DAAB5575-CC0A-4560-B01B-87209A29B991.jpeg" group-title="Live TV",HBO ZONE 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/226.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4B4EF73B-7710-4BBF-967B-14F2AA7F8E6A.jpeg" group-title="Live TV",kIX 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/28.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/58C45227-C06C-4190-8FE7-A507306F94E0.png" group-title="Live TV",P.M.B ROYALE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/300.m3u8
-#EXTINF:-1 group-title="Live TV",VTC ENTERTAINMENT 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/381.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D7A8903C-C794-4181-9929-4EA066CFE44E.webp" group-title="Live TV",NETFLIX MOVIES
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/248.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D7A8903C-C794-4181-9929-4EA066CFE44E.webp" group-title="Live TV",NETFLIX ACTION 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/247.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D7A8903C-C794-4181-9929-4EA066CFE44E.webp" group-title="Live TV",NETFLIX THRILLER
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/246.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/B5AC6F2E-F7E6-4B3B-B37F-11226EEBC538.png" group-title="Live TV",UNIVERSAL  STUDIO 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/269.m3u8
-#EXTINF:-1 group-title="Live TV",SPORT.TV NBA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/576.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/C0555F1C-2D19-4522-864D-6228F990BE79.png" group-title="Live TV",TRUE PREMIER 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/243.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/2F58B445-6E7D-4437-A937-F3B970FD7738.png" group-title="Live TV",TRUE PREMIER 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/244.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS PREMIER 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/8.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS PREMIER 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/9.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS PREMIER 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/10.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/1.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/2.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/3.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS 4
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS 5
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/5.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS 6
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/6.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE996AE7-0344-4663-B2CC-5A5C26133C1E.png" group-title="Live TV",BEIN SPORTS 7
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/7.m3u8
-#EXTINF:-1 group-title="Live TV",WAZOBIA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/65.m3u8
-#EXTINF:-1 group-title="Live TV",ASTRO ARENA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/344.m3u8
-#EXTINF:-1 group-title="Live TV",FOX SPORTS CRICKET 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/312.m3u8
-#EXTINF:-1 group-title="Live TV",DOVE ENTERTAINMENT
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/410.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/44433EC5-1E96-4785-9936-93CF32DF5489.png" group-title="Live TV",BEIN MOVIES ACTION 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/250.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/A9E77576-E051-4625-A98A-028894BD6794.png" group-title="Live TV",BEIN MOVIES 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/249.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/54A30DD7-64D3-410F-B651-15DCE12EED6E.png" group-title="Live TV",BEIN MOVIES FAMILY 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/252.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/96667E4E-A195-4BA2-8A25-4DA5E74A4521.png" group-title="Live TV",BEIN MOVIES DRAMA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/251.m3u8
-#EXTINF:-1 group-title="Live TV",DUBAI ONE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/417.m3u8
-#EXTINF:-1 group-title="Live TV",VOXAFRICA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/387.m3u8
-#EXTINF:-1 group-title="Live TV",NBA TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/413.m3u8
-#EXTINF:-1 group-title="Live TV",MBC VARIETY
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/352.m3u8
-#EXTINF:-1 group-title="Live TV",GROOVYTV ACTION
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/425.m3u8
-#EXTINF:-1 group-title="Live TV",NOLLYWOOD  MOVIES 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/406.m3u8
-#EXTINF:-1 group-title="Live TV",TVC ENTERTAINMENT
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/360.m3u8
-#EXTINF:-1 group-title="Live TV",VIEW  TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/290.m3u8
-#EXTINF:-1 group-title="Live TV",DOVE TV 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/442.m3u8
-#EXTINF:-1 group-title="Live TV",TRYBE MOVIES
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/443.m3u8
-#EXTINF:-1 group-title="Live TV",SUPER DRAMA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/405.m3u8
-#EXTINF:-1 group-title="Live TV",SUPER MOVIES  3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/353.m3u8
-#EXTINF:-1 group-title="Live TV",ITV 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/447.m3u8
-#EXTINF:-1 group-title="Live TV",MIX ACTION 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/354.m3u8
-#EXTINF:-1 group-title="Live TV",AFROBEAT MUSIC
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/451.m3u8
-#EXTINF:-1 group-title="Live TV",TV3 GHANA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/452.m3u8
-#EXTINF:-1 group-title="Live TV",CNBC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/453.m3u8
-#EXTINF:-1 group-title="Live TV",SUPER MOVIES 4
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/461.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D50CCAA8-348A-4E57-9C88-2A3655396C9A.jpeg" group-title="Live TV",BEIN SPORT ENGLISH 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/53.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/461E3AD9-EF92-4D56-9059-68B9430FAB52.jpeg" group-title="Live TV",BEIN SPORT ENGLISH 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/64.m3u8
-#EXTINF:-1 group-title="Live TV",BEIN SPORT ENGLISH 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/463.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D06F9792-A614-4061-9E80-2F389C50C558.jpeg" group-title="Live TV",NBC BAY SPORTS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/209.m3u8
-#EXTINF:-1 group-title="Live TV",USA NETWORK
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/384.m3u8
-#EXTINF:-1 group-title="Live TV",WILLOW CRICKET
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/464.m3u8
-#EXTINF:-1 group-title="Live TV",PTV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/465.m3u8
-#EXTINF:-1 group-title="Live TV",DUHOK SPORTS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/466.m3u8
-#EXTINF:-1 group-title="Live TV",BEIN SPORT NEWS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/449.m3u8
-#EXTINF:-1 group-title="Live TV",SONY  TEN SPORTS  1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/467.m3u8
-#EXTINF:-1 group-title="Live TV",SONY TEN SPORTS 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/468.m3u8
-#EXTINF:-1 group-title="Live TV",SKY SPORTS ARENA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/470.m3u8
-#EXTINF:-1 group-title="Live TV",F1 FIGHT NETWORK 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/475.m3u8
-#EXTINF:-1 group-title="Live TV",NETFLIX COMEDY 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/241.m3u8
-#EXTINF:-1 group-title="Live TV",MZANSI WETHU
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/474.m3u8
-#EXTINF:-1 group-title="Live TV",ASTRO CRICKET
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/476.m3u8
-#EXTINF:-1 group-title="Live TV",SUPER MOVIES 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/382.m3u8
-#EXTINF:-1 group-title="Live TV",STARZ SPORTS WWE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/477.m3u8
-#EXTINF:-1 group-title="Live TV",MBC MAX
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/190.m3u8
-#EXTINF:-1 group-title="Live TV",CANAL FOOT+
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/480.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/553BB91E-8BED-42DD-869B-6FD36A0F5A25.png" group-title="Live TV",ZEE WORLD 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/59.m3u8
+#EXTM3U
+#EXTINF:-1,SABC 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/57
+#EXTINF:-1,SABC 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/58
+#EXTINF:-1,SABC 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/67
+#EXTINF:-1,SABC NEWS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/77
+#EXTINF:-1,E.TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/207
+#EXTINF:-1,M-Net CITY
+http://stream.pizztv.com:8000/123098888889000/123098888889000/71
+#EXTINF:-1,M-Net Movies 1 HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/73
+#EXTINF:-1,M-Net Movies 2 FHD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/74
+#EXTINF:-1,M-Net Movies 3 HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/75
+#EXTINF:-1,M-Net Movies 4 HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/76
+#EXTINF:-1,SUPERSPORT PREMIER LEAGUE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/306
+#EXTINF:-1, SUPERSPORT PREMIER LEAGUE 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/556
+#EXTINF:-1,SUPERSPORT ACTION
+http://stream.pizztv.com:8000/123098888889000/123098888889000/14
+#EXTINF:-1,SUPERSPORT PSL HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/19
+#EXTINF:-1,SuperSport Football HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/15
+#EXTINF:-1,SuperSport LaLiga HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/17
+#EXTINF:-1,SUPERSPORT RUGBY 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/93
+#EXTINF:-1,ZA: SuperSport Grandstand HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/16
+#EXTINF:-1,SUPERSPORT CRICKET 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/56
+#EXTINF:-1,SuperSport Variety 1 HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/20
+#EXTINF:-1,SuperSport Variety 2 HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/21
+#EXTINF:-1,SuperSport Variety 3 HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/22
+#EXTINF:-1,SuperSport Variety 4 HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/23
+#EXTINF:-1,SUPERSPORT BLITZ 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/238
+#EXTINF:-1,SUPERSPORT MAXIMO 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/304
+#EXTINF:-1,SUPERSPORT MOTOR 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/18
+#EXTINF:-1,SUPERSPORT TENNIS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/206
+#EXTINF:-1,STAR LIFE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/60
+#EXTINF:-1, KYKNET NOU
+http://stream.pizztv.com:8000/123098888889000/123098888889000/308
+#EXTINF:-1,KYKNET
+http://stream.pizztv.com:8000/123098888889000/123098888889000/234
+#EXTINF:-1,KYKNET & KIE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/280
+#EXTINF:-1,MOJA LOVE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/55
+#EXTINF:-1,PINK FAMILY
+http://stream.pizztv.com:8000/123098888889000/123098888889000/307
+#EXTINF:-1,1MAGIC
+http://stream.pizztv.com:8000/123098888889000/123098888889000/235
+#EXTINF:-1,TELEMUNDO 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/257
+#EXTINF:-1,Africa Magic Family HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/25
+#EXTINF:-1,Africa Magic Yoruba HD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/27
+#EXTINF:-1,NOLLYWOOD MOVIES  1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/374
+#EXTINF:-1,NIGBATI
+http://stream.pizztv.com:8000/123098888889000/123098888889000/345
+#EXTINF:-1,SLIVER BIRD NEWS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/335
+#EXTINF:-1,GALAXY TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/376
+#EXTINF:-1,AIT LAGOS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/277
+#EXTINF:-1,WAPTV 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/377
+#EXTINF:-1,TVC NEWS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/375
+#EXTINF:-1,BEN AFRICA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/184
+#EXTINF:-1,STAR MOVIES 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/302
+#EXTINF:-1,MTV BASE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/311
+#EXTINF:-1,SOUND CITY
+http://stream.pizztv.com:8000/123098888889000/123098888889000/366
+#EXTINF:-1,ENCA NEWS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/301
+#EXTINF:-1,HBO ZONE 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/226
+#EXTINF:-1,kIX 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/28
+#EXTINF:-1,P.M.B ROYALE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/300
+#EXTINF:-1,VTC ENTERTAINMENT 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/381
+#EXTINF:-1,NETFLIX MOVIES
+http://stream.pizztv.com:8000/123098888889000/123098888889000/248
+#EXTINF:-1,NETFLIX ACTION 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/247
+#EXTINF:-1,NETFLIX THRILLER
+http://stream.pizztv.com:8000/123098888889000/123098888889000/246
+#EXTINF:-1,UNIVERSAL  STUDIO 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/269
+#EXTINF:-1, SUPERSPORT PREMIER LEAGUE 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/556
+#EXTINF:-1,SPORT.TV NBA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/576
+#EXTINF:-1,TRUE PREMIER 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/243
+#EXTINF:-1,TRUE PREMIER 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/244
+#EXTINF:-1,BEIN SPORTS PREMIER 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/8
+#EXTINF:-1,BEIN SPORTS PREMIER 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/9
+#EXTINF:-1,BEIN SPORTS PREMIER 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/10
+#EXTINF:-1,BEIN SPORTS 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/1
+#EXTINF:-1,BEIN SPORTS 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/2
+#EXTINF:-1,BEIN SPORTS 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/3
+#EXTINF:-1,BEIN SPORTS 4
+http://stream.pizztv.com:8000/123098888889000/123098888889000/4
+#EXTINF:-1,BEIN SPORTS 5
+http://stream.pizztv.com:8000/123098888889000/123098888889000/5
+#EXTINF:-1,BEIN SPORTS 6
+http://stream.pizztv.com:8000/123098888889000/123098888889000/6
+#EXTINF:-1,BEIN SPORTS 7
+http://stream.pizztv.com:8000/123098888889000/123098888889000/7
+#EXTINF:-1,WAZOBIA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/65
+#EXTINF:-1,ASTRO ARENA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/344
+#EXTINF:-1,FOX SPORTS CRICKET 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/312
+#EXTINF:-1,DOVE ENTERTAINMENT
+http://stream.pizztv.com:8000/123098888889000/123098888889000/410
+#EXTINF:-1,BEIN MOVIES ACTION 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/250
+#EXTINF:-1,BEIN MOVIES 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/249
+#EXTINF:-1,BEIN MOVIES FAMILY 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/252
+#EXTINF:-1,BEIN MOVIES DRAMA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/251
+#EXTINF:-1,DUBAI ONE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/417
+#EXTINF:-1,VOXAFRICA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/387
+#EXTINF:-1,NBA TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/413
+#EXTINF:-1,MBC VARIETY
+http://stream.pizztv.com:8000/123098888889000/123098888889000/352
+#EXTINF:-1,GROOVYTV ACTION
+http://stream.pizztv.com:8000/123098888889000/123098888889000/425
+#EXTINF:-1,NOLLYWOOD  MOVIES 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/406
+#EXTINF:-1,TVC ENTERTAINMENT
+http://stream.pizztv.com:8000/123098888889000/123098888889000/360
+#EXTINF:-1,VIEW  TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/290
+#EXTINF:-1,DOVE TV 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/442
+#EXTINF:-1,TRYBE MOVIES
+http://stream.pizztv.com:8000/123098888889000/123098888889000/443
+#EXTINF:-1,SUPER DRAMA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/405
+#EXTINF:-1,SUPER MOVIES  3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/353
+#EXTINF:-1,ITV 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/447
+#EXTINF:-1,MIX ACTION 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/354
+#EXTINF:-1,AFROBEAT MUSIC
+http://stream.pizztv.com:8000/123098888889000/123098888889000/451
+#EXTINF:-1,TV3 GHANA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/452
+#EXTINF:-1,CNBC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/453
+#EXTINF:-1,SUPER MOVIES 4
+http://stream.pizztv.com:8000/123098888889000/123098888889000/461
+#EXTINF:-1,BEIN SPORT ENGLISH 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/53
+#EXTINF:-1,BEIN SPORT ENGLISH 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/64
+#EXTINF:-1,BEIN SPORT ENGLISH 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/463
+#EXTINF:-1,NBC BAY SPORTS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/209
+#EXTINF:-1,USA NETWORK
+http://stream.pizztv.com:8000/123098888889000/123098888889000/384
+#EXTINF:-1,WILLOW CRICKET
+http://stream.pizztv.com:8000/123098888889000/123098888889000/464
+#EXTINF:-1,PTV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/465
+#EXTINF:-1,DUHOK SPORTS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/466
+#EXTINF:-1,BEIN SPORT NEWS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/449
+#EXTINF:-1,SONY  TEN SPORTS  1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/467
+#EXTINF:-1,SONY TEN SPORTS 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/468
+#EXTINF:-1,SKY SPORTS ARENA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/470
+#EXTINF:-1,F1 FIGHT NETWORK 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/475
+#EXTINF:-1,NETFLIX COMEDY 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/241
+#EXTINF:-1,MZANSI WETHU
+http://stream.pizztv.com:8000/123098888889000/123098888889000/474
+#EXTINF:-1,ASTRO CRICKET
+http://stream.pizztv.com:8000/123098888889000/123098888889000/476
+#EXTINF:-1,SUPER MOVIES 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/382
+#EXTINF:-1,STARZ SPORTS WWE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/477
+#EXTINF:-1,MBC MAX
+http://stream.pizztv.com:8000/123098888889000/123098888889000/190
+#EXTINF:-1,CANAL FOOT+
+http://stream.pizztv.com:8000/123098888889000/123098888889000/480
+#EXTINF:-1,ZEE WORLD 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/59
 #EXTINF:-1,SUPERSPORT GOLF ⛳️ 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/481.m3u8
-#EXTINF:-1 group-title="Live TV",TSN 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/483.m3u8
-#EXTINF:-1 group-title="Live TV",SPORT.TV 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/484.m3u8
-#EXTINF:-1 group-title="Live TV",NICKELODEON
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/486.m3u8
-#EXTINF:-1 group-title="Live TV",BEIN SPORT EXTRA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/487.m3u8
-#EXTINF:-1 group-title="Live TV",BBC ONE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/489.m3u8
-#EXTINF:-1 group-title="Live TV",E.TV MOVIES EXTRA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/492.m3u8
-#EXTINF:-1 group-title="Live TV",CINEMAX USA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/493.m3u8
-#EXTINF:-1 group-title="Live TV",AFRICA MAGIC SHOWCASE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/494.m3u8
-#EXTINF:-1 group-title="Live TV",ASTRO SUPERSPORTS 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/495.m3u8
-#EXTINF:-1 group-title="Live TV",GHANA SPORTS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/496.m3u8
-#EXTINF:-1 group-title="Live TV",ASTRO SUPERSPORT 4
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/497.m3u8
-#EXTINF:-1 group-title="Live TV",LOL AFRICA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/185.m3u8
-#EXTINF:-1 group-title="Live TV",AFRICA MAGIC EPIC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/518.m3u8
-#EXTINF:-1 group-title="Live TV",FALCON SPORTS 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/521.m3u8
-#EXTINF:-1 group-title="Live TV",SSC SPORT 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/522.m3u8
-#EXTINF:-1 group-title="Live TV",YES ACTION
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/519.m3u8
-#EXTINF:-1 group-title="Live TV",SONY TEN SPORTS  3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/524.m3u8
-#EXTINF:-1 group-title="Live TV",AFRICA MAGIC URBAN 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/525.m3u8
-#EXTINF:-1 group-title="Live TV",YANGA TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/526.m3u8
-#EXTINF:-1 group-title="Live TV",ANIMAL PLANET 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/528.m3u8
-#EXTINF:-1 group-title="Live TV",TLC ASIA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/529.m3u8
-#EXTINF:-1 group-title="Live TV",ASTRO SUPERSPORT 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/530.m3u8
-#EXTINF:-1 group-title="Live TV",MZANSI MAGIC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/305.m3u8
-#EXTINF:-1 group-title="Live TV",E.TV MOVIES
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/531.m3u8
-#EXTINF:-1 group-title="Live TV",TRUE AFRICAN 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/532.m3u8
-#EXTINF:-1 group-title="Live TV",BIG BROTHER TITANS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/533.m3u8
-#EXTINF:-1 group-title="Live TV",ASTRO SUPERSPORT 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/534.m3u8
-#EXTINF:-1 group-title="Live TV",HGTV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/535.m3u8
-#EXTINF:-1 group-title="Live TV",MAISHA MAGIC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/537.m3u8
-#EXTINF:-1 group-title="Live TV",CITIZEN TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/540.m3u8
-#EXTINF:-1 group-title="Live TV",DISCOVERY LIFE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/544.m3u8
-#EXTINF:-1 group-title="Live TV",SUPER MOVIES 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/545.m3u8
-#EXTINF:-1 group-title="Live TV",ITAGE TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/370.m3u8
-#EXTINF:-1 group-title="Live TV",MZANSI BIOSKOP 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/547.m3u8
-#EXTINF:-1 group-title="Live TV",TFC PINOY
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/549.m3u8
-#EXTINF:-1 group-title="Live TV",AFRICA MAGIC IGBO
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/550.m3u8
-#EXTINF:-1 group-title="Live TV",ZIGGO SPORTS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/552.m3u8
-#EXTINF:-1 group-title="Live TV",LOVE NATURE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/557.m3u8
-#EXTINF:-1 group-title="Live TV",AYV CHANNEL 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/560.m3u8
-#EXTINF:-1 group-title="Live TV",LA LIGA TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/562.m3u8
-#EXTINF:-1 group-title="Live TV",MMN ACTION 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/563.m3u8
-#EXTINF:-1 group-title="Live TV",MMN MOVIES 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/564.m3u8
-#EXTINF:-1 group-title="Live TV",DEMAND AFRICA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/571.m3u8
-#EXTINF:-1 group-title="Live TV",TED
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/572.m3u8
-#EXTINF:-1 group-title="Live TV",NOLLY AFRICA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/574.m3u8
-#EXTINF:-1 group-title="Live TV",KOREA MOVIE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/578.m3u8
-#EXTINF:-1 group-title="Live TV",SPORT.TV 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/579.m3u8
-#EXTINF:-1 group-title="Live TV",NEWZROOM Afrika 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/583.m3u8
-#EXTINF:-1 group-title="Live TV",WILD EARTH TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/588.m3u8
-#EXTINF:-1 group-title="Live TV",SKY SPORTS F1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/589.m3u8
-#EXTINF:-1 group-title="Live TV",CBS SPORTS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/336.m3u8
-#EXTINF:-1 group-title="Live TV",TRUST TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/592.m3u8
-#EXTINF:-1 group-title="Live TV",GHANA TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/593.m3u8
-#EXTINF:-1 group-title="Live TV",GH ONE GHANA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/594.m3u8
-#EXTINF:-1 group-title="Live TV",METRO GHANA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/595.m3u8
-#EXTINF:-1 group-title="Live TV",ZOOMOO KIDS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/596.m3u8
-#EXTINF:-1 group-title="Live TV",GNTN JUNIOR 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/597.m3u8
-#EXTINF:-1 group-title="Live TV",ROK 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/598.m3u8
-#EXTINF:-1 group-title="Live TV",AFROLAND MOVIES 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/599.m3u8
-#EXTINF:-1 group-title="Live TV",DAY STAR 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/600.m3u8
-#EXTINF:-1 group-title="Live TV",HOLLYWOOD  MOVIES 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/601.m3u8
-#EXTINF:-1 group-title="Live TV",CHEATERS TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/604.m3u8
-#EXTINF:-1 group-title="Live TV",AFRIWOOD SERIES 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/605.m3u8
-#EXTINF:-1 group-title="Live TV",AFRIWOOD MOVIES 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/606.m3u8
-#EXTINF:-1 group-title="Live TV",PINK ROMANCE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/608.m3u8
-#EXTINF:-1 group-title="Live TV",PINK PREMIUM
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/607.m3u8
-#EXTINF:-1 group-title="Live TV",HAUSA CINEMA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/609.m3u8
-#EXTINF:-1 group-title="Live TV",NTA LAGOS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/610.m3u8
-#EXTINF:-1 group-title="Live TV",LAGOS TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/611.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/348267F0-8BE9-49AF-A2BA-34BDF573C2CF.png" group-title="Live TV",MUTV  
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/49.m3u8
-#EXTINF:-1 group-title="Live TV",BARCA TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/319.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/FE3047FB-97B0-41B2-9F4B-A35C72AE91FE.png" group-title="Live TV",BT SPORTS 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/44.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/FE3047FB-97B0-41B2-9F4B-A35C72AE91FE.png" group-title="Live TV",BT SPORTS  2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/45.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/FE3047FB-97B0-41B2-9F4B-A35C72AE91FE.png" group-title="Live TV",BT SPORTS 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/266.m3u8
-#EXTINF:-1 group-title="Live TV",RMC SPORTS 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/285.m3u8
-#EXTINF:-1 group-title="Live TV",RMC SPORTS 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/286.m3u8
-#EXTINF:-1 group-title="Live TV",REAL MADRID 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/429.m3u8
-#EXTINF:-1 group-title="Live TV",SSPORT  2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/388.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D06F9792-A614-4061-9E80-2F389C50C558.jpeg" group-title="Live TV",NBC SPORTS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/210.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/8E27CE8B-2BAA-4B28-B1F1-BDCEF33F0F4F.jpeg" group-title="Live TV",UFC NETWORK 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/262.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1BE53D95-DBE9-4C60-B147-151C73494B8C.jpeg" group-title="Live TV",WWE NETWORK 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/63.m3u8
-#EXTINF:-1 group-title="Live TV",ESPN BS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/334.m3u8
-#EXTINF:-1 group-title="Live TV",CANAL+ PREMIER LEAGUE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/379.m3u8
-#EXTINF:-1 group-title="Live TV",TENNIS CHANNEL 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/378.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D06F9792-A614-4061-9E80-2F389C50C558.jpeg" group-title="Live TV",SSPORT 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/189.m3u8
-#EXTINF:-1 group-title="Live TV",EURO SPORT  1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/389.m3u8
-#EXTINF:-1 group-title="Live TV",EURO SPORT 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/462.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/976438B9-16BF-4E3F-A75B-7DB066B7CABC.jpeg" group-title="Live TV",SUPERSCREEN  TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/66.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/598C36DE-2F73-489E-BAF1-E24DD5CDADBE.png" group-title="Live TV",CHANNELS TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/41.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/A1107012-E954-440D-96FF-BDA018857643.png" group-title="Live TV",ARISE TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/202.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/A1017AD4-C3E7-43E0-BAA1-89DAC8FE7E56.jpeg" group-title="Live TV",EMMANUEL TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/197.m3u8
-#EXTINF:-1 group-title="Live TV",COZA TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/68.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/80E2824E-899C-41ED-AD59-5B0A4A639603_1.png" group-title="Live TV",HAUSA TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/13.m3u8
-#EXTINF:-1 group-title="Live TV",AFRICA NEWS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/434.m3u8
-#EXTINF:-1 group-title="Live TV",TV-IPOB
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/435.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/9666154B-45A6-48F0-80F4-9C442BC1C979.jpeg" group-title="Live TV",CNN 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/30.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/3AC82779-109B-4FF7-8426-DE6350029C0B.jpeg" group-title="Live TV",ALJAZEERA NEWS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/34.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/24160662-8707-469D-B39C-A64C6E1F094E.png" group-title="Live TV",SKY NEWS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/198.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/973015B7-5042-4133-81C6-BD3CB6DB08C6.jpeg" group-title="Live TV",MSNBC
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/84.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/CC29D511-B5BE-48F2-A88E-ED3354F5372A.jpeg" group-title="Live TV",FOX NEWS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/232.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/C13825C5-7A1C-4D0B-B932-7F5BABE576A2.jpeg" group-title="Live TV",BBC NEWS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/233.m3u8
-#EXTINF:-1 group-title="Live TV",DW NEWS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/329.m3u8
-#EXTINF:-1 group-title="Live TV",CARTOON NETWORK 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/330.m3u8
-#EXTINF:-1 group-title="Live TV",LIVE NOW FOX
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/339.m3u8
-#EXTINF:-1 group-title="Live TV",FOXSOUL
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/317.m3u8
-#EXTINF:-1 group-title="Live TV",NEWSMAX
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/324.m3u8
-#EXTINF:-1 group-title="Live TV",BLOOMBERG 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/369.m3u8
-#EXTINF:-1 group-title="Live TV",EURO NEWS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/371.m3u8
-#EXTINF:-1 group-title="Live TV",FRANCE 24
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/407.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/84833FC5-E574-497F-99CC-16A540E15A4C.jpeg" group-title="Live TV",WOIN LIVE NEWS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/29.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1589EB4E-8929-42CA-B445-92059156ADE0.jpeg" group-title="Live TV",AXN MOVIES
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/196.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1CEE6BA6-D44C-4851-BD9A-AA6FF7C388C9.png" group-title="Live TV",CBS REALITY 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/255.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/2CF560E5-3F63-41DD-873F-E68F991EC263.png" group-title="Live TV",TELEVISTA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/258.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/48AE14C5-FD8B-4758-ADD2-1A46E5B52845.png" group-title="Live TV",CBS JUSTICE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/268.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D84BF39A-3133-40C8-875F-039B122C6D95.png" group-title="Live TV",TNT AFRICA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/273.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/B213AE77-218B-43A9-9C06-3916C46CB463.png" group-title="Live TV",SPICE CHANNEL 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/274.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BCA4251E-BEC9-4ED6-8E97-7DA47B7008F4.png" group-title="Live TV",ONTV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/265.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/B81C4721-D2A8-4376-B15B-E3C315953912.png" group-title="Live TV",BET 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/242.m3u8
-#EXTINF:-1 group-title="Live TV",TLC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/309.m3u8
-#EXTINF:-1 tvg-logo="http://pakiptv.top:8880/images/c3a1670172d53d16a98c7b32b3183c27.png" group-title="Live TV",E!
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/87.m3u8
-#EXTINF:-1 group-title="Live TV",FOX LIFE
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/11.m3u8
-#EXTINF:-1 group-title="Live TV",CINEMAX 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/333.m3u8
-#EXTINF:-1 group-title="Live TV",STAR WORLD 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/35.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/9AF46ADD-F9D2-41CA-A5F1-0B01B3521886.jpeg" group-title="Live TV",CINE MOVIES 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/36.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/9AF46ADD-F9D2-41CA-A5F1-0B01B3521886.jpeg" group-title="Live TV",CINE MOVIES 3
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/37.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/9AF46ADD-F9D2-41CA-A5F1-0B01B3521886.jpeg" group-title="Live TV",CINE MOVIES 4
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/38.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/9AF46ADD-F9D2-41CA-A5F1-0B01B3521886.jpeg" group-title="Live TV",CINE MOVIE 6
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/357.m3u8
-#EXTINF:-1 group-title="Live TV",FOX ACTION MOVIE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/225.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/406A4703-8093-4BFD-95CA-A186A7D57727.png" group-title="Live TV",BEIN SERIES 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/223.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/406A4703-8093-4BFD-95CA-A186A7D57727.png" group-title="Live TV",BEIN SERIES 1
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/224.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/332F3DB6-8CBA-4FB7-90A5-2DB30EDE3875.png" group-title="Live TV",MBC 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/282.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/CE4BA47B-0705-43DA-A7D7-8258F4844CDA.png" group-title="Live TV",MBC ACTION 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/283.m3u8
-#EXTINF:-1 group-title="Live TV",OSN DISNEY CHANNEL
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/343.m3u8
-#EXTINF:-1 group-title="Live TV",SKY SPORTS NEWS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/295.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/83A54C2B-980E-47AD-A72A-E7E272C90319.png" group-title="Live TV",SKY SPORTS FOOTBALL 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/296.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/83A54C2B-980E-47AD-A72A-E7E272C90319.png" group-title="Live TV",SKY SPORTS  PREMIER
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/298.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/83A54C2B-980E-47AD-A72A-E7E272C90319.png" group-title="Live TV",SKY SPORTS CRICKET 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/299.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/EE8AC44F-4328-4829-90A3-682B1F4161FD.png" group-title="Live TV",ESPN 1 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/294.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/EE8AC44F-4328-4829-90A3-682B1F4161FD.png" group-title="Live TV",ESPN 2
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/267.m3u8
-#EXTINF:-1 group-title="Live TV",SKY SPORTS MIX
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/287.m3u8
-#EXTINF:-1 group-title="Live TV",PBS KIDS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/205.m3u8
-#EXTINF:-1 group-title="Live TV",DISNEY XD
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/361.m3u8
-#EXTINF:-1 group-title="Live TV",DISNEY JUNIOR 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/293.m3u8
-#EXTINF:-1 group-title="Live TV",BOOMERANG KIDS 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/291.m3u8
-#EXTINF:-1 group-title="Live TV",NICK Jr
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/288.m3u8
-#EXTINF:-1 group-title="Live TV",NICKTOON KIDS
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/478.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/0A12678C-B29B-4E89-A56D-77216CBEEBDB.png" group-title="Live TV",WILDLIFE 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/279.m3u8
-#EXTINF:-1 group-title="Live TV",INFO WAR 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/318.m3u8
-#EXTINF:-1 group-title="Live TV",THE FIRST 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/348.m3u8
-#EXTINF:-1 group-title="Live TV",DISCOVERY CHANNEL
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/367.m3u8
-#EXTINF:-1 group-title="Live TV",INVESTIGATION   DISCOVERY 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/368.m3u8
-#EXTINF:-1 group-title="Live TV",HISTORY 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/409.m3u8
-#EXTINF:-1 group-title="Live TV",NATIONAL   GEO WILD 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/426.m3u8
-#EXTINF:-1 group-title="Live TV",NATIONAL GEOGRAPHIC CHANNEL 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/488.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/D06F9792-A614-4061-9E80-2F389C50C558.jpeg" group-title="Live TV",MIRACLE TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/236.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BD2D4A80-AFCD-4C9C-B5AC-BBE1BFC07FCA.png" group-title="Live TV",TRACE NAJIA 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/43.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/7B51BFD6-5702-4352-A07B-2F5748612315.png" group-title="Live TV",HIP TV
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/263.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/BE52B518-8968-4DC8-AE77-D1401E58E2B3.png" group-title="Live TV",TRACE URBAN 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/264.m3u8
-#EXTINF:-1 group-title="Live TV",POWER LOVE MUSIC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/327.m3u8
-#EXTINF:-1 group-title="Live TV",VEVO 90
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/328.m3u8
-#EXTINF:-1 group-title="Live TV",HITS MUSIC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/347.m3u8
-#EXTINF:-1 group-title="Live TV",TRACE LATINA
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/390.m3u8
-#EXTINF:-1 group-title="Live TV",AMUSIC CHANNEL
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/325.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/329B6F1A-712C-48BE-8C8A-51D5E796F299.jpeg" group-title="Live TV",POWER MUSIC 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/89.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/5EBCB3E3-4BCE-45B3-A44C-C977135754F8.jpeg" group-title="Live TV",XXX VIXEN 
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/201.m3u8
-#EXTINF:-1 group-title="Live TV",XXX VIP ASIAN
-http://stream.pizztv.com:8000/live/123098888889000/123098888889000/587.m3u8
-#EXTINF:-1 group-title="MOVIES",BULLET TRAIN
+http://stream.pizztv.com:8000/123098888889000/123098888889000/481
+#EXTINF:-1,TSN 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/483
+#EXTINF:-1,SPORT.TV 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/484
+#EXTINF:-1,NICKELODEON
+http://stream.pizztv.com:8000/123098888889000/123098888889000/486
+#EXTINF:-1,BEIN SPORT EXTRA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/487
+#EXTINF:-1,BBC ONE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/489
+#EXTINF:-1,E.TV MOVIES EXTRA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/492
+#EXTINF:-1,CINEMAX USA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/493
+#EXTINF:-1,AFRICA MAGIC SHOWCASE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/494
+#EXTINF:-1,ASTRO SUPERSPORTS 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/495
+#EXTINF:-1,GHANA SPORTS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/496
+#EXTINF:-1,ASTRO SUPERSPORT 4
+http://stream.pizztv.com:8000/123098888889000/123098888889000/497
+#EXTINF:-1,LOL AFRICA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/185
+#EXTINF:-1,AFRICA MAGIC EPIC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/518
+#EXTINF:-1,FALCON SPORTS 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/521
+#EXTINF:-1,SSC SPORT 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/522
+#EXTINF:-1,YES ACTION
+http://stream.pizztv.com:8000/123098888889000/123098888889000/519
+#EXTINF:-1,SONY TEN SPORTS  3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/524
+#EXTINF:-1,AFRICA MAGIC URBAN 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/525
+#EXTINF:-1,YANGA TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/526
+#EXTINF:-1,ANIMAL PLANET 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/528
+#EXTINF:-1,TLC ASIA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/529
+#EXTINF:-1,ASTRO SUPERSPORT 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/530
+#EXTINF:-1,MZANSI MAGIC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/305
+#EXTINF:-1,E.TV MOVIES
+http://stream.pizztv.com:8000/123098888889000/123098888889000/531
+#EXTINF:-1,TRUE AFRICAN 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/532
+#EXTINF:-1,BIG BROTHER TITANS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/533
+#EXTINF:-1,ASTRO SUPERSPORT 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/534
+#EXTINF:-1,HGTV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/535
+#EXTINF:-1,MAISHA MAGIC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/537
+#EXTINF:-1,CITIZEN TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/540
+#EXTINF:-1,DISCOVERY LIFE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/544
+#EXTINF:-1,SUPER MOVIES 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/545
+#EXTINF:-1,ITAGE TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/370
+#EXTINF:-1,MZANSI BIOSKOP 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/547
+#EXTINF:-1,TFC PINOY
+http://stream.pizztv.com:8000/123098888889000/123098888889000/549
+#EXTINF:-1,AFRICA MAGIC IGBO
+http://stream.pizztv.com:8000/123098888889000/123098888889000/550
+#EXTINF:-1,ZIGGO SPORTS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/552
+#EXTINF:-1,LOVE NATURE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/557
+#EXTINF:-1,AYV CHANNEL 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/560
+#EXTINF:-1,LA LIGA TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/562
+#EXTINF:-1,MMN ACTION 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/563
+#EXTINF:-1,MMN MOVIES 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/564
+#EXTINF:-1,DEMAND AFRICA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/571
+#EXTINF:-1,TED
+http://stream.pizztv.com:8000/123098888889000/123098888889000/572
+#EXTINF:-1,NOLLY AFRICA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/574
+#EXTINF:-1,KOREA MOVIE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/578
+#EXTINF:-1,SPORT.TV 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/579
+#EXTINF:-1,NEWZROOM Afrika 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/583
+#EXTINF:-1,WILD EARTH TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/588
+#EXTINF:-1,SKY SPORTS F1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/589
+#EXTINF:-1,CBS SPORTS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/336
+#EXTINF:-1,TRUST TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/592
+#EXTINF:-1,GHANA TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/593
+#EXTINF:-1,GH ONE GHANA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/594
+#EXTINF:-1,METRO GHANA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/595
+#EXTINF:-1,ZOOMOO KIDS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/596
+#EXTINF:-1,GNTN JUNIOR 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/597
+#EXTINF:-1,ROK 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/598
+#EXTINF:-1,AFROLAND MOVIES 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/599
+#EXTINF:-1,DAY STAR 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/600
+#EXTINF:-1,HOLLYWOOD  MOVIES 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/601
+#EXTINF:-1,CHEATERS TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/604
+#EXTINF:-1,AFRIWOOD SERIES 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/605
+#EXTINF:-1,AFRIWOOD MOVIES 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/606
+#EXTINF:-1,PINK PREMIUM
+http://stream.pizztv.com:8000/123098888889000/123098888889000/607
+#EXTINF:-1,PINK ROMANCE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/608
+#EXTINF:-1,HAUSA CINEMA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/609
+#EXTINF:-1,NTA LAGOS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/610
+#EXTINF:-1,LAGOS TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/611
+#EXTINF:-1,MUTV  
+http://stream.pizztv.com:8000/123098888889000/123098888889000/49
+#EXTINF:-1,BARCA TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/319
+#EXTINF:-1,BT SPORTS 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/44
+#EXTINF:-1,BT SPORTS  2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/45
+#EXTINF:-1,BT SPORTS 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/266
+#EXTINF:-1,RMC SPORTS 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/285
+#EXTINF:-1,RMC SPORTS 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/286
+#EXTINF:-1,REAL MADRID 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/429
+#EXTINF:-1,SSPORT  2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/388
+#EXTINF:-1,NBC SPORTS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/210
+#EXTINF:-1,UFC NETWORK 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/262
+#EXTINF:-1,WWE NETWORK 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/63
+#EXTINF:-1,ESPN BS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/334
+#EXTINF:-1,CANAL+ PREMIER LEAGUE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/379
+#EXTINF:-1,TENNIS CHANNEL 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/378
+#EXTINF:-1,SSPORT 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/189
+#EXTINF:-1,EURO SPORT  1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/389
+#EXTINF:-1,EURO SPORT 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/462
+#EXTINF:-1,SUPERSCREEN  TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/66
+#EXTINF:-1,CHANNELS TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/41
+#EXTINF:-1,ARISE TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/202
+#EXTINF:-1,EMMANUEL TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/197
+#EXTINF:-1,HAUSA TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/13
+#EXTINF:-1,AFRICA NEWS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/434
+#EXTINF:-1,TV-IPOB
+http://stream.pizztv.com:8000/123098888889000/123098888889000/435
+#EXTINF:-1,CNN 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/30
+#EXTINF:-1,ALJAZEERA NEWS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/34
+#EXTINF:-1,SKY NEWS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/198
+#EXTINF:-1,MSNBC
+http://stream.pizztv.com:8000/123098888889000/123098888889000/84
+#EXTINF:-1,FOX NEWS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/232
+#EXTINF:-1,BBC NEWS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/233
+#EXTINF:-1,DW NEWS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/329
+#EXTINF:-1,CARTOON NETWORK 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/330
+#EXTINF:-1,LIVE NOW FOX
+http://stream.pizztv.com:8000/123098888889000/123098888889000/339
+#EXTINF:-1,FOXSOUL
+http://stream.pizztv.com:8000/123098888889000/123098888889000/317
+#EXTINF:-1,NEWSMAX
+http://stream.pizztv.com:8000/123098888889000/123098888889000/324
+#EXTINF:-1,BLOOMBERG 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/369
+#EXTINF:-1,EURO NEWS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/371
+#EXTINF:-1,FRANCE 24
+http://stream.pizztv.com:8000/123098888889000/123098888889000/407
+#EXTINF:-1,WOIN LIVE NEWS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/29
+#EXTINF:-1,AXN MOVIES
+http://stream.pizztv.com:8000/123098888889000/123098888889000/196
+#EXTINF:-1,CBS REALITY 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/255
+#EXTINF:-1,TELEVISTA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/258
+#EXTINF:-1,CBS JUSTICE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/268
+#EXTINF:-1,TNT AFRICA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/273
+#EXTINF:-1,SPICE CHANNEL 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/274
+#EXTINF:-1,ONTV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/265
+#EXTINF:-1,BET 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/242
+#EXTINF:-1,TLC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/309
+#EXTINF:-1,E!
+http://stream.pizztv.com:8000/123098888889000/123098888889000/87
+#EXTINF:-1,FOX LIFE
+http://stream.pizztv.com:8000/123098888889000/123098888889000/11
+#EXTINF:-1,CINEMAX 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/333
+#EXTINF:-1,STAR WORLD 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/35
+#EXTINF:-1,CINE MOVIES 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/36
+#EXTINF:-1,CINE MOVIES 3
+http://stream.pizztv.com:8000/123098888889000/123098888889000/37
+#EXTINF:-1,CINE MOVIES 4
+http://stream.pizztv.com:8000/123098888889000/123098888889000/38
+#EXTINF:-1,CINE MOVIE 6
+http://stream.pizztv.com:8000/123098888889000/123098888889000/357
+#EXTINF:-1,FOX ACTION MOVIE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/225
+#EXTINF:-1,BEIN SERIES 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/223
+#EXTINF:-1,BEIN SERIES 1
+http://stream.pizztv.com:8000/123098888889000/123098888889000/224
+#EXTINF:-1,MBC 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/282
+#EXTINF:-1,MBC ACTION 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/283
+#EXTINF:-1,OSN DISNEY CHANNEL
+http://stream.pizztv.com:8000/123098888889000/123098888889000/343
+#EXTINF:-1,SKY SPORTS NEWS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/295
+#EXTINF:-1,SKY SPORTS FOOTBALL 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/296
+#EXTINF:-1,SKY SPORTS  PREMIER
+http://stream.pizztv.com:8000/123098888889000/123098888889000/298
+#EXTINF:-1,SKY SPORTS CRICKET 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/299
+#EXTINF:-1,ESPN 1 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/294
+#EXTINF:-1,ESPN 2
+http://stream.pizztv.com:8000/123098888889000/123098888889000/267
+#EXTINF:-1,SKY SPORTS MIX
+http://stream.pizztv.com:8000/123098888889000/123098888889000/287
+#EXTINF:-1,PBS KIDS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/205
+#EXTINF:-1,DISNEY XD
+http://stream.pizztv.com:8000/123098888889000/123098888889000/361
+#EXTINF:-1,DISNEY JUNIOR 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/293
+#EXTINF:-1,BOOMERANG KIDS 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/291
+#EXTINF:-1,NICK Jr
+http://stream.pizztv.com:8000/123098888889000/123098888889000/288
+#EXTINF:-1,NICKTOON KIDS
+http://stream.pizztv.com:8000/123098888889000/123098888889000/478
+#EXTINF:-1,WILDLIFE 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/279
+#EXTINF:-1,INFO WAR 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/318
+#EXTINF:-1,THE FIRST 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/348
+#EXTINF:-1,DISCOVERY CHANNEL
+http://stream.pizztv.com:8000/123098888889000/123098888889000/367
+#EXTINF:-1,INVESTIGATION   DISCOVERY 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/368
+#EXTINF:-1,HISTORY 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/409
+#EXTINF:-1,NATIONAL   GEO WILD 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/426
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/488
+#EXTINF:-1,MIRACLE TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/236
+#EXTINF:-1,COZA TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/68
+#EXTINF:-1,TRACE NAJIA 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/43
+#EXTINF:-1,HIP TV
+http://stream.pizztv.com:8000/123098888889000/123098888889000/263
+#EXTINF:-1,TRACE URBAN 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/264
+#EXTINF:-1,POWER LOVE MUSIC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/327
+#EXTINF:-1,VEVO 90
+http://stream.pizztv.com:8000/123098888889000/123098888889000/328
+#EXTINF:-1,HITS MUSIC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/347
+#EXTINF:-1,TRACE LATINA
+http://stream.pizztv.com:8000/123098888889000/123098888889000/390
+#EXTINF:-1,AMUSIC CHANNEL
+http://stream.pizztv.com:8000/123098888889000/123098888889000/325
+#EXTINF:-1,POWER MUSIC 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/89
+#EXTINF:-1,XXX VIXEN 
+http://stream.pizztv.com:8000/123098888889000/123098888889000/201
+#EXTINF:-1,XXX VIP ASIAN
+http://stream.pizztv.com:8000/123098888889000/123098888889000/587
+#EXTINF:-1,BULLET TRAIN
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/501.mp4
-#EXTINF:-1 group-title="MOVIES",THE WOMAN KING
+#EXTINF:-1,THE WOMAN KING
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/502.mp4
-#EXTINF:-1 group-title="MOVIES",BLACK ADAM
+#EXTINF:-1,BLACK ADAM
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/503.mp4
-#EXTINF:-1 group-title="MOVIES",BEAST
+#EXTINF:-1,BEAST
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/504.mp4
-#EXTINF:-1 group-title="MOVIES",HIT THE FIRST
+#EXTINF:-1,HIT THE FIRST
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/505.mp4
-#EXTINF:-1 group-title="MOVIES",DEAD ZONE
+#EXTINF:-1,DEAD ZONE
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/506.mp4
-#EXTINF:-1 group-title="MOVIES",ONE WAY
+#EXTINF:-1,ONE WAY
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/507.mp4
-#EXTINF:-1 group-title="MOVIES",BREAKING
+#EXTINF:-1,BREAKING
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/508.mp4
-#EXTINF:-1 group-title="MOVIES",SMILE
+#EXTINF:-1,SMILE
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/509.mp4
-#EXTINF:-1 group-title="MOVIES",BLACK PANTHER
+#EXTINF:-1,BLACK PANTHER
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/510.mkv
-#EXTINF:-1 group-title="MOVIES",AVATAR: THE WAY OF WATER
+#EXTINF:-1,AVATAR: THE WAY OF WATER
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/511.mkv
-#EXTINF:-1 group-title="MOVIES",EMANCIPATION
+#EXTINF:-1,EMANCIPATION
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/512.mkv
-#EXTINF:-1 group-title="MOVIES",TROLL
+#EXTINF:-1,TROLL
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/513.mkv
-#EXTINF:-1 group-title="MOVIES",PREY FOR THE DEVIL
+#EXTINF:-1,PREY FOR THE DEVIL
 http://stream.pizztv.com:8000/movie/123098888889000/123098888889000/514.mp4
+
+
